@@ -190,13 +190,13 @@ Plotly - это мощная библиотека для создания инт
 
 ## Сравнение бибилиотек Matplotlib, Seaborn и Plotly
 
-![Matplotlib_1.png](Graph/Matplotlib_1.png)![Matplotlib_2.png](Graph/Matplotlib_2.png)![Matplotlib_3.png](Graph/Matplotlib_3.png)
+![mat1.png](Example%20graph/mat1.png)![mat2.png](Example%20graph/mat2.png)![mat3.png](Example%20graph/mat3.png)
 <p align="center" style="margin-top: -10px;">Построение графиков в Matplotlib</p>
 
-![Seaborn_1.png](Graph/Seaborn_1.png)![Seaborn_2.png](Graph/Seaborn_2.png)![Seaborn_3.png](Graph/Seaborn_3.png)
+![sea1.png](Example%20graph/sea1.png)![sea2.png](Example%20graph/sea2.png)![sea4.png](Example%20graph/sea4.png)
 <p align="center" style="margin-top: -10px;">Построение графиков в Seaborn</p>
 
-![Ploty_1.png](Graph/Ploty_1.png)![Ploty_2.png](Graph/Ploty_2.png)![Ploty_3.png](Graph/Ploty_3.png)![Ploty_4_1.png](Graph/Ploty_4_1.png)![Ploty_4_2.png](Graph/Ploty_4_2.png)
+![plot1.png](Example%20graph/plot1.png)![plot2.png](Example%20graph/plot2.png)![plot4.png](Example%20graph/plot4.png)![plot5_1.png](Example%20graph/plot5_1.png)![plot5_2.png](Example%20graph/plot5_2.png)
 <p align="center" style="margin-top: -10px;">Построение графиков в Plotly</p>
 
 Сравнивая Matplotlib, Seaborn и Plotly, можно выделить следующие ключевые особенности каждого инструмента:
